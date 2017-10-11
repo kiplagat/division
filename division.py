@@ -4,4 +4,3 @@ def division(a,b):
  else: 
   result = a/b
   return result
-print(division(8,0))
